@@ -1,0 +1,3 @@
+*google*
+*g.doubleclick*
+*.ads-pixiv.net
